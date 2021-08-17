@@ -1,2 +1,3 @@
 # SATGNN
-Thesis Project: Satisfiability Problem and Exploratory Combinatorial Optimization
+Abstract:
+With a new graph representation that encodes variable assignments, we present a Reinforcement Learning framework for the Satisfiability Problem, based on the technique of exploratory combinatorial optimization. The proposed method is successful in finding solutions for satisfiable instances of the SAT problem reliably. The introduction of this classical NP-Complete problem into the field of exploratory combinatorial optimization displays di↵erentiated characteristics from other contemporary methods, which in turn provides new insights into the field and opens up interesting avenues for future research on the development of combinatorial optimization.
